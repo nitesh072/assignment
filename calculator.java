@@ -9,7 +9,7 @@ char c;
 
 do{
 System.out.println("Enter ur choice ");
-System.out.println("Enter 1 to Add");
+System.out.println("Enter 1 to Multiply");
 System.out.println("Enter 2 to exit ");
 
 c= sc.next().charAt(0);
